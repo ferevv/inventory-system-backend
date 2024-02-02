@@ -1,0 +1,5 @@
+# Created at 2024-02-02T13:59:37.487
+Boot Manifest-JAR contains absolute paths in classpath 'D:\FELIPE\Documents\workspace\tests\inventory-system-backend\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
